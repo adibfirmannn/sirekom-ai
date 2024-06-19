@@ -1,0 +1,23 @@
+id,idAdmin,namaLomba,idKategori,deskripsiLomba,tanggalBukaPendaftaran,tanggalTutupPendaftaran,posterLomba,lampiran,created_at,updated_at
+1,1,Figma Designer,1,Membuat Design mockup figma untuk di lombakan,6/1/2024,6/30/2024,1.jpg,1.pdf,6/7/2024 8:42,6/7/2024 8:42
+2,1,Gemastik,1,"Lomba Gemastik Divisi UI/ UX, membuat desain UI dan UX pada tampilan website",6/1/2024,6/30/2024,2.jpg,2.pdf,6/7/2024 8:42,6/7/2024 8:42
+3,1,SeFest Web Development,2,Lomba Web Development yang diselenggarakan oleh HIMA Rekayasa Perangkat Lunak di Telkom University Surabaya,6/1/2024,6/30/2024,3.jpg,3.pdf,6/7/2024 8:42,6/7/2024 8:42
+4,1,Dicoding,2,Lomba Web Development yagn diselenggarakan oleh Dicoding,6/1/2024,6/30/2024,4.jpg,4.pdf,6/7/2024 8:42,6/7/2024 8:42
+5,1,Gamify,3,Membuat Game Rpg 2d atau 3d ,6/1/2024,6/30/2024,5.jpg,5.pdf,6/7/2024 8:42,6/7/2024 8:42
+6,1,GameCon,3,Kompetisi pembuatan game menggunakan platform unity dan godot,6/1/2024,6/30/2024,6.jpg,6.pdf,6/7/2024 8:42,6/7/2024 8:42
+7,1,Ksatria Compe,4,Kompetisi Competitive Programming yang diselenggarakan oleh yayasan Ksatria,6/1/2024,6/30/2024,7.jpg,7.pdf,6/7/2024 8:42,6/7/2024 8:42
+8,1,Ranked Comp,4,Perlombaan Competitive Programming untuk menyelesaikan soal yang diberikan,6/1/2024,6/30/2024,8.jpg,8.pdf,6/7/2024 8:42,6/7/2024 8:42
+9,1,Kontes Robot Indonesia,5,"Kontes Robot Indonesia (KRI) adalah kegiatan kompetisi tahunan mahasiswa dalam bidang rancang bangun dan rekayasa robotika yang dapat diikuti oleh seluruh mahasiswa pada perguruan tinggi di  wilayah Republik Indonesia, dari berbagai K/L atau kedinasan, yang tercatat pada Pangkalan Data Pendidikan Tinggi.",6/1/2024,6/30/2024,9.jpg,9.pdf,6/7/2024 8:42,6/7/2024 8:42
+10,1,Kontes Robot Bawah Air Indonesia,5,Kontes Robot Bawah Air Indonesia merupakan kegiatan kompetisi untuk membuat sebuah robot bawah air,6/1/2024,6/30/2024,10.jpg,10.pdf,6/7/2024 8:42,6/7/2024 8:42
+11,1,Funimation,6,Kegiatan Kompetisi untuk membuat suatu animasi kartun hiburan anak anak,6/1/2024,6/30/2024,11.jpg,11.pdf,6/7/2024 8:42,6/7/2024 8:42
+12,1,Aniplex,6,Kompetisi untuk membuat sebuah animasi bertema jejepangan,6/1/2024,6/30/2024,12.jpg,12.pdf,6/7/2024 8:42,6/7/2024 8:42
+13,1,Pekan Ilmiah Mahasiswa,7,Membuat Karya Tulis Ilmiah dari hasil inovasi mahasiswa,6/1/2024,6/30/2024,13.jpg,13.pdf,6/7/2024 8:42,6/7/2024 8:42
+14,1,Pekan Kreativitas Mahasiswa,7,Kompetisi Inovasi mahasiswa untuk membuat karya tulis ilmiah,6/1/2024,6/30/2024,14.jpg,14.pdf,6/7/2024 8:42,6/7/2024 8:42
+15,1,Hackathon,8,Kompetisi Penetration testing pada suatu website,6/1/2024,6/30/2024,15.jpg,15.pdf,6/7/2024 8:42,6/7/2024 8:42
+16,1,Capture The Flag,8,Kompetisi Merebut flag terdapat 2 tim blue team dan red team. blue team melindungi website dan red team menyerang website untuk mengambil flag,6/1/2024,6/30/2024,16.jpg,16.pdf,6/7/2024 8:42,6/7/2024 8:42
+17,1,CodePolitan,9,Kompetisi menerapkan konsep smart city pada kota kota besar,6/1/2024,6/30/2024,17.jpg,17.pdf,6/7/2024 8:42,6/7/2024 8:42
+18,1,InnoVillage,9,Kompetisi untuk membuat konsep smart city untuk suatu kota,6/1/2024,6/30/2024,18.jpg,18.pdf,6/7/2024 8:42,6/7/2024 8:42
+19,1,Satria Data,10,"Penyelenggaraan kegiatan Statistika Ria dan Festival Sains Data (SATRIA DATA) merupakan wujud dari dukungan Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi terhadap perkembangan keilmuan statistika dan sains data secara umum.",6/1/2024,6/30/2024,19.jpg,19.pdf,6/7/2024 8:42,6/7/2024 8:42
+20,1,MineDraft,10,Kompetisi Data Mining untuk menggali data pada game yang ada,6/1/2024,6/30/2024,20.jpg,20.pdf,6/7/2024 8:42,6/7/2024 8:42
+21,1,SDLC,11,Kompetisi pembuatan software menggunakan metode Agile,6/1/2024,6/30/2024,21.jpg,21.pdf,6/7/2024 8:42,6/7/2024 8:42
+22,1,SeFest,11,Lomba pembuatan Software menggunakan framework Laravel,6/1/2024,6/30/2024,22.jpg,22.pdf,6/7/2024 8:42,6/7/2024 8:42
